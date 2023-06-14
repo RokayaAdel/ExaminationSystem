@@ -1,0 +1,444 @@
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q1.1: Encapsulation makes code modification easier but reduces code reuse
+q1.2 :objects in OO systems posses state, behavior, and quantity
+q1.3 :More than one constructor function may be defined for a class
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
+q3.1:  Which feature of OOP indicates code reusability?
+a) Encapsulation
+b) Inheritance
+c) Abstraction
+d) Polymorphism 
+
+q3.2: If a function can perform more than 1 type of tasks, where the function name remains same, which feature of OOP is used here?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction 
+
+q3.3: If different properties and functions of a real world entity is grouped or embedded into a single element, what is it called in OOP language?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Encapsulation
